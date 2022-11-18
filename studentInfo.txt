@@ -1,0 +1,17 @@
+Student Name:Robiul
+Student ID:011221051
+CGPA:3.70Student Name:Sajid
+Student ID:011221252
+CGPA:3.51
+Student Name:Muntasir
+Student ID:011221394
+CGPA:3.67
+Student Name:MD.Rahadul
+Student ID:011221342
+CGPA:3.99
+Student Name:Mehedi
+Student ID:011221397
+CGPA:3.99
+Student Name:Robiul Islam
+Student ID:011221051
+CGPA:3.70
